@@ -38,3 +38,8 @@ _site
 /src/04_fancy_rules/05/foo.result
 /src/04_fancy_rules/05/lose.o
 /src/04_fancy_rules/05/blah
+/src/05_commands_and_execution/05/one
+/src/05_commands_and_execution/05/two
+/src/05_commands_and_execution/06/subdir/*
+/src/05_commands_and_execution/09/subdir/*
+/src/05_commands_and_execution/11/subdir/*
