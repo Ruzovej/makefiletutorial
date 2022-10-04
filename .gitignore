@@ -43,3 +43,11 @@ _site
 /src/05_commands_and_execution/06/subdir/*
 /src/05_commands_and_execution/09/subdir/*
 /src/05_commands_and_execution/11/subdir/*
+/src/09_other_features/01/A
+/src/09_other_features/01/B
+/src/09_other_features/02/some_binary
+/src/09_other_features/headers/*
+/src/09_other_features/other-directory/*
+/src/09_other_features/03/clean
+/src/09_other_features/03/some_file
+/src/10_makefile_cookbook/build/*
