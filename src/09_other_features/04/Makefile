@@ -10,6 +10,6 @@ two:
 	touch two
 	false
 
-.PHONY:
+.PHONY: clean
 clean:
 	rm -f all one two

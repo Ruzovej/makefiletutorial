@@ -1,7 +1,9 @@
-all::
+all:: A
+
+A:
 	@echo $$PWD
 	touch A
 
-.PHONY:
+.PHONY: clean
 clean::
 	rm -f A

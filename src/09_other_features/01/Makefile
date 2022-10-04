@@ -2,6 +2,6 @@
 
 all::
 
-.PHONY:
+.PHONY: clean
 clean::
 	@echo all cleaned
